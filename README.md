@@ -21,7 +21,7 @@ The Student Database Management System (SDMS) is a simple application built usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codewithkim1/
+   git@github.com:codewithkim1/Student-Database-Management-System-SDMS-.git
    cd sdms
    ```
 2. Install the required libraries:
